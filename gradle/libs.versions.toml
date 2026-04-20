@@ -4,8 +4,12 @@ androidx-vectordrawable = "1.1.0"
 androidx-navigation = "2.5.3"
 kotlin = "1.9.20"
 kotlin-coroutines = "1.7.3"
+desugar-jdk-libs = "2.0.4"
 
 [libraries]
+desugar-jdk-libs = { module = "com.android.tools:desugar_jdk_libs", version.ref = "desugar-jdk-libs" }
+
+
 # AndroidX
 androidx-annotation = { module = "androidx.annotation:annotation", version = "1.8.1" }
 androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.7.0" }
