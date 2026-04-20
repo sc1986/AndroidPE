@@ -9,6 +9,9 @@
     <string name="gmail_link">jkas.dbt@gmail.com</string>
     <string name="github_link">https://github.com/jkas-dbt/AndroidPE.git</string>
     <string name="thanks_to_all">My special thanks to everyone who participated directly or indirectly in improving this App.</string>
+ <string name="cant_be_empty">输入不能为空</string> 
+
+ <string name="others_info">其他信息</string> 
 
     <string name="new_project">New Project</string>
     <string name="contact_us">Contact Us</string>
