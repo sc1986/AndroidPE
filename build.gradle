@@ -10,7 +10,7 @@ task clean(type: Delete) {
 
 ext {
     compileSdk = 34
-    buildTools = "34.0.4"
+    buildTools = "34.0.0"
     targetSdk = 28
     minSdk= 26
     packageName = "jkas.androidpe"
